@@ -31,4 +31,4 @@ To get your workspace id simply run:
 
     python export.py --since 2019-12-01 --till 2019-12-08
 
-By default the script will export your toggl date of the current week.
+By default the script will export your toggl data of the current week.
